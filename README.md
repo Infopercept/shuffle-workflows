@@ -138,7 +138,7 @@ Figure 12 – Sending the alert notification to the Slack channel.
 
 That’s it! Now save the workflow and you are good to go.
 
-Conclusion
+Conclusion<br>
 Through the setup detailed in this post, you can secure Amazon S3 from getting infecting through malicious threat actors using this serverless solution. The workflow scans files from YARA rules and sends malicious IP addresses to Amazon GuardDuty so adversaries do not affect the environment in the future. You can delete or even quarantine files, along with blocking the suspicious IP addresses.
 
 Shuﬄe provides ﬂexibility to build custom response automation ﬂows, enabling you to build your own playbooks. Infopercept provides implementation and consultation services to help you build your own playbooks.
