@@ -1,3 +1,5 @@
+<h2>Best Practices from Infopercept on Malware Detection with YARA Rules and Shuﬄe SOAR</h2>
+
 Cloud security is the top priority at Amazon Web Services (AWS) and the security partner ecosystem plays a critical role in building and executing security capabilities. Infopercept Consulting is an AWS Partner which leverages open-source and building security solutions for customers.
 
 In this post, we will share how Infopercept is leveraging Shuﬄe, an open-source general purpose security automation platform that can be used for building security playbooks.
